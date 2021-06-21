@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<HDon>
+  <DSCKS>
+    <NBan><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"></CanonicalizationMethod><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></SignatureMethod><Reference URI="#804659aa-cf54-4644-906c-90539d4242ce"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></Transform></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></DigestMethod><DigestValue>cIWvxNh5RqCJbFLWQB8vPGyDv3o=</DigestValue></Reference></SignedInfo><SignatureValue>TqY8OH4iHM21jFhc8C0qnfy32APZh1AnozvoEVHE05R1h0jWflcM6qUa3shU50ykWoCeloanzZ0IwkLgzMsSyk4GRBK7+uWDSgwPrlQ6pFRyE+lkQKQmfqPKTx4GxczogHQwLD0ngzfF2iZBiMZTOU8kNwz1h3GV37gq1PJpLI0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vLGg7uthrTp0yDBmKcj0zh9D4ojnBtEUebfAybfHhCJAKnDSbU7wH42OizwLMAJhxDvX0ZidcZg1PiorpW3rET1BCzku31E4D6ahLbPq0+CSoakPLXVxqWDCuUbPi+v7rkCI7ZhrH1eZNFEQAsOcU5oJNr1I3ACSWOrN/PVq7OM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509IssuerSerial><X509IssuerName>CN=SmartSign, OU=Cong ty co phan chu ky so VI NA, O=Cong ty co phan chu ky so VI NA, C=VN</X509IssuerName><X509SerialNumber>111660364786458321038027978738678736296</X509SerialNumber></X509IssuerSerial><X509SubjectName>C=VN, ST=HỒ CHÍ MINH, CN=CÔNG TY TNHH TMDV THỊNH VƯỢNG AN, UID=MST:0315907602</X509SubjectName><X509Certificate>MIIE2DCCA8CgAwIBAgIQVAEBBxWFHX8uUL04Fa2lqDANBgkqhkiG9w0BAQsFADB1MQswCQYDVQQGEwJWTjEoMCYGA1UECgwfQ29uZyB0eSBjbyBwaGFuIGNodSBreSBzbyBWSSBOQTEoMCYGA1UECwwfQ29uZyB0eSBjbyBwaGFuIGNodSBreSBzbyBWSSBOQTESMBAGA1UEAwwJU21hcnRTaWduMB4XDTIwMTAwMzAzNDc0OVoXDTIzMTAwMzAzNDc0OVowdzEeMBwGCgmSJomT8ixkAQEMDk1TVDowMzE1OTA3NjAyMS8wLQYDVQQDDCZDw5RORyBUWSBUTkhIIFRNRFYgVEjhu4pOSCBWxq/hu6JORyBBTjEXMBUGA1UECAwOSOG7kiBDSMONIE1JTkgxCzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8saDu62GtOnTIMGYpyPTOH0PiiOcG0RR5t8DJt8eEIkAqcNJtTvAfjY6LPAswAmHEO9fRmJ1xmDU+KiulbesRPUELOS7fUTgPpqEts+rT4JKhqQ8tdXGpYMK5Rs+L6/uuQIjtmGsfV5k0URACw5xTmgk2vUjcAJJY6s389Wrs4wIDAQABo4IB5DCCAeAwcgYIKwYBBQUHAQEEZjBkMDUGCCsGAQUFBzAChilodHRwczovL3NtYXJ0c2lnbi5jb20udm4vc21hcnRzaWduMjU2LmNydDArBggrBgEFBQcwAYYfaHR0cDovL29jc3AyNTYuc21hcnRzaWduLmNvbS52bjAdBgNVHQ4EFgQUh1MSzzSj9O0ij7nvvtOMq7wKlzYwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBTQCllSHMqKwAnSBCiS6pP740KGHzAoBggrBgEFBQcBAwQcMBowGAYIKwYBBQUHCwEwDAYKKwYBBAGB7QMBBzCBkQYDVR0gBIGJMIGGMIGDBgorBgEEAYHtAwEHMHUwSgYIKwYBBQUHAgIwPh48AFQAaABpAHMAIABpAHMAIABhAGMAYwByAGUAZABpAHQAZQBkACAAYwBlAHIAdABpAGYAaQBjAGEAdABlMCcGCCsGAQUFBwIBFhtodHRwOi8vc21hcnRzaWduLmNvbS52bi9jcHMwLwYDVR0fBCgwJjAkoCKgIIYeaHR0cDovL2NybDI1Ni5zbWFydHNpZ24uY29tLnZuMA4GA1UdDwEB/wQEAwIDyDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwDQYJKoZIhvcNAQELBQADggEBAFUp4SnfNBDIaAvEGM8cesKqHbFHQTBzK0DlgJUzUlxEQ9I8qRpM3bwN2pteK6SX3ScapESQEAHDSxuGZUl7OT/YAcwwTl3OPFTTHEkkdsjI46Xm2oO+2t+k9lDYHAkxeeNeEBQ7aJGFEQeu20Vop0hFqo/4NRH2P5Gk4mQDRjWPah6l0ehXfxk+6XlGejtzlZa/CREeQgHLrCj15f08wP1TzbBSPVJ2Nlu/IXxIoC+XzuWRd7snTFxaE86fgvSvAMWbFoRAZZynbQT+FIRHgm/kOwvmDk19LdpV5ukidJn9I3MD51Q1NYFSiAFX+CWQsnEu83LGZOqs/CWmpIzZ0+A=</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="Timestamp" Target=""><date>2020/11/17</date><time>6:42:2</time><timezone>UTC +7</timezone></SignatureProperty></SignatureProperties></Object></Signature></NBan>
+    <NMua></NMua>
+    <CCKSKhac></CCKSKhac>
+  </DSCKS>
+  <DLHDon id="804659aa-cf54-4644-906c-90539d4242ce">
+    <TTChung>
+      <TChat>1</TChat>
+      <PBan>1.0.0</PBan>
+      <THDon>Hóa đơn giá trị gia tăng</THDon>
+      <KHMSHDon>01GTKT0/001</KHMSHDon>
+      <KHHDon>VA/19E</KHHDon>
+      <SHDon>44</SHDon>
+      <TDLap>2020-11-17T00:00:00</TDLap>
+      <DVTTe>VND</DVTTe>
+      <TGia>1</TGia>
+      <TTKhac>
+        <TTin>
+          <TTruong>InvGUID</TTruong>
+          <KDLieu>string</KDLieu>
+          <DLieu>804659aa-cf54-4644-906c-90539d4242ce</DLieu>
+        </TTin>
+      </TTKhac>
+    </TTChung>
+    <NDHDon>
+      <NBan>
+        <Ten>CÔNG TY TNHH TMDV THỊNH VƯỢNG AN</Ten>
+        <MST>0315907602</MST>
+        <DChi>66/43 Nguyễn Đỗ Cung, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh, Việt Nam</DChi>
+      </NBan>
+      <NMua>
+        <Ten>CÔNG TY CỔ PHẦN THƯƠNG MẠI VIGLACERA</Ten>
+        <MST>0102640785</MST>
+        <DChi>Tầng 1, Toà nhà Viglacera, số 1 Đại lộ Thăng Long, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội</DChi>
+      </NMua>
+      <DSHHDVu>
+        <HHDVu>
+          <TChat>1</TChat>
+          <STT>1</STT>
+          <Ten>Dịch vụ tư vấn quản lý</Ten>
+          <DVTinh>Gói</DVTinh>
+          <SLuong>1</SLuong>
+          <DGia>1500000</DGia>
+          <TLCKhau>0</TLCKhau>
+          <STCKhau>0</STCKhau>
+          <ThTien>1500000</ThTien>
+          <TSuat>10%</TSuat>
+          <TTKhac></TTKhac>
+        </HHDVu>
+      </DSHHDVu>
+      <TToan>
+        <THTTLTSuat>
+          <LTSuat>
+            <TSuat>10%</TSuat>
+            <ThTien>1500000</ThTien>
+            <TThue>150000</TThue>
+          </LTSuat>
+        </THTTLTSuat>
+        <DSLPhi></DSLPhi>
+        <TgTCThue>1500000</TgTCThue>
+        <TgTThue>150000</TgTThue>
+        <TTCKTMai>0</TTCKTMai>
+        <TgTTTBSo>1650000</TgTTTBSo>
+        <TgTTTBChu>Một triệu sáu trăm năm mươi nghìn đồng chẵn./.</TgTTTBChu>
+      </TToan>
+    </NDHDon>
+    <DLQRCode></DLQRCode>
+    <TTKhac></TTKhac>
+  </DLHDon>
+</HDon>

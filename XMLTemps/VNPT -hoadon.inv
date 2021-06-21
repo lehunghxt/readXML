@@ -1,0 +1,497 @@
+<?xml-stylesheet type='text/xsl' href='DICHVUPHUCHUY002_01'?><Invoice><Content Id="SigningData"><ArisingDate>30/01/2021 10:55:16</ArisingDate><InvoiceName>Hóa đơn giá trị gia tăng</InvoiceName><InvoicePattern>01GTKT0/002</InvoicePattern><SerialNo>PH/19E</SerialNo><InvoiceNo>192</InvoiceNo><Kind_of_Payment>TM, CK</Kind_of_Payment><ComName>CÔNG TY TNHH MỘT THÀNH VIÊN DỊCH VỤ PHÚC HUY</ComName><ComTaxCode>0315628542</ComTaxCode><ComAddress>330 Tân Phước, Phường 7, Quận 10, Thành Phố Hồ Chí Minh, Việt Nam</ComAddress><ComPhone>0903361836</ComPhone><ComBankNo>0602.1505.1199</ComBankNo><ComBankName>Ngân Hàng Sacombank – Chi nhánh Hoa Việt - PGD Hồng Bàng</ComBankName><CusCode>NCCHYVONG</CusCode><CusName>Công Ty Cổ Phần Bệnh Viện Hy Vọng</CusName><CusTaxCode>0305781767</CusTaxCode><CusPhone /><CusAddress>Số 2A Ấp Bắc, Phường 13, Quận Tân Bình, TP. Hồ Chí Minh, Việt Nam</CusAddress><CusBankName /><CusBankNo /><Total>6125000</Total><VAT_Amount>612500</VAT_Amount><Amount>6737500</Amount><Amount_words>Sáu  triệu, bảy  trăm  ba  mươi bảy  nghìn, năm  trăm  đồng</Amount_words><GrossValueNonTax>0</GrossValueNonTax><GrossValue>0</GrossValue><Buyer /><GrossValue0>0</GrossValue0><VATAmount0>0</VATAmount0><GrossValue5>0</GrossValue5><VATAmount5>0</VATAmount5><GrossValue10>0</GrossValue10><VATAmount10>0</VATAmount10><CurrencyUnit>VND</CurrencyUnit><ExchangeRate>1</ExchangeRate><ConvertedAmount>6737500</ConvertedAmount><Extra1 /><Extra2 /><EmailDeliver>kimhang103@yahoo.com,kieutien8788@gmail.com,nguyenhuuphat26@gmail.com,dvphuchuy@gmail.com</EmailDeliver><SMSDeliver /><VAT_Rate>10</VAT_Rate><KindOfService /><Products><Product><Code /><Extra1 /><Extra2 /><Remark /><Total>0</Total><ProdName>Cung cấp giải pháp vệ sinh tháng 01/2021</ProdName><ProdUnit /><ProdQuantity>0</ProdQuantity><ProdPrice>0</ProdPrice><Discount>0</Discount><DiscountAmount>0</DiscountAmount><VATRate>0</VATRate><VATAmount>0</VATAmount><Amount>0</Amount></Product><Product><Code /><Extra1 /><Extra2 /><Remark /><Total>0</Total><ProdName>Thảm tránh bụi 60x90</ProdName><ProdUnit>Tấm</ProdUnit><ProdQuantity>3</ProdQuantity><ProdPrice>130000</ProdPrice><Discount>0</Discount><DiscountAmount>0</DiscountAmount><VATRate>0</VATRate><VATAmount>0</VATAmount><Amount>390000</Amount></Product><Product><Code /><Extra1 /><Extra2 /><Remark /><Total>0</Total><ProdName>Thảm tránh bụi 50x70</ProdName><ProdUnit>Tấm</ProdUnit><ProdQuantity>12</ProdQuantity><ProdPrice>110000</ProdPrice><Discount>0</Discount><DiscountAmount>0</DiscountAmount><VATRate>0</VATRate><VATAmount>0</VATAmount><Amount>1320000</Amount></Product><Product><Code /><Extra1 /><Extra2 /><Remark /><Total>0</Total><ProdName>Hộp giấy vệ sinh</ProdName><ProdUnit>Hộp</ProdUnit><ProdQuantity>8</ProdQuantity><ProdPrice>45000</ProdPrice><Discount>0</Discount><DiscountAmount>0</DiscountAmount><VATRate>0</VATRate><VATAmount>0</VATAmount><Amount>360000</Amount></Product><Product><Code /><Extra1 /><Extra2 /><Remark /><Total>0</Total><ProdName>Hộp giấy lau tay</ProdName><ProdUnit>Hộp</ProdUnit><ProdQuantity>9</ProdQuantity><ProdPrice>40000</ProdPrice><Discount>0</Discount><DiscountAmount>0</DiscountAmount><VATRate>0</VATRate><VATAmount>0</VATAmount><Amount>360000</Amount></Product><Product><Code /><Extra1 /><Extra2 /><Remark /><Total>0</Total><ProdName>Bình đựng xà bông</ProdName><ProdUnit>Hộp</ProdUnit><ProdQuantity>11</ProdQuantity><ProdPrice>145000</ProdPrice><Discount>0</Discount><DiscountAmount>0</DiscountAmount><VATRate>0</VATRate><VATAmount>0</VATAmount><Amount>1595000</Amount></Product><Product><Code /><Extra1 /><Extra2 /><Remark /><Total>0</Total><ProdName>Máy tạo mùi hương</ProdName><ProdUnit>Hộp</ProdUnit><ProdQuantity>14</ProdQuantity><ProdPrice>150000</ProdPrice><Discount>0</Discount><DiscountAmount>0</DiscountAmount><VATRate>0</VATRate><VATAmount>0</VATAmount><Amount>2100000</Amount></Product></Products><Extra /><SignDate>30/01/2021</SignDate></Content><Signature Id="serSig" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI="#SigningData"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>LJ/r8C/1dw9d26zlFgJnuw+bT8c=</DigestValue></Reference></SignedInfo><SignatureValue>eHK0B84fdK1v26Y/SRmKt6Bu14ESmcRnQhH+0jiUYbGtYtqx2yI1KB3qodlzGIBhT2DkyNpPeTZW/PkPSuaBlwdDy3bI+zY+4Zwyf5rTV1zHyQWND7E7MHAH+WBtLBF2I1nT2BSY+niZuAL0OSIwljq+XjbSATRUbLAmVTscUB4=</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIFwTCCA6mgAwIBAgIQVAEBAZ3l9z2bKUjeGnfHKjANBgkqhkiG9w0BAQUFADBpMQswCQYDVQQGEwJWTjETMBEGA1UEChMKVk5QVCBHcm91cDEeMBwGA1UECxMVVk5QVC1DQSBUcnVzdCBOZXR3b3JrMSUwIwYDVQQDExxWTlBUIENlcnRpZmljYXRpb24gQXV0aG9yaXR5MB4XDTE5MTEyOTA4MTMwMFoXDTIzMDQyNTEzNTgwMFowgZsxCzAJBgNVBAYTAlZOMRcwFQYDVQQIDA5I4buTIENow60gTWluaDESMBAGA1UEBwwJUXXhuq1uIDEwMT8wPQYDVQQDDDZDw5RORyBUWSBUTkhIIE3hu5hUIFRIw4BOSCBWScOKTiBE4buKQ0ggVuG7pCBQSMOaQyBIVVkxHjAcBgoJkiaJk/IsZAEBDA5NU1Q6MDMxNTYyODU0MjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyNbo1jOtbGg884UouAn7ODSN52WALC4Pkgjx2yFi7XyQ1P89WvDIRuhPasXBg+u1hxjbeYYbKe4Y4TVW7A7IpmDFBRMu7VN3gtth/9NmeDGKLHLEzcHkHQ+X1+1aZi0YrkG+DFFWbnGaxD/mSdkDKLwhCT4l8+eTKlkGhP298tMCAwEAAaOCAbQwggGwMHAGCCsGAQUFBwEBBGQwYjAyBggrBgEFBQcwAoYmaHR0cDovL3B1Yi52bnB0LWNhLnZuL2NlcnRzL3ZucHRjYS5jZXIwLAYIKwYBBQUHMAGGIGh0dHA6Ly9vY3NwLnZucHQtY2Eudm4vcmVzcG9uZGVyMB0GA1UdDgQWBBQxaqFhZvdwnxXHWaha/KmnmHxbpzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFAZpwNXVAooVjUZ96XziaApVrGqvMGgGA1UdIARhMF8wXQYOKwYBBAGB7QMBAQMBAQEwSzAiBggrBgEFBQcCAjAWHhQATwBJAEQALQBTAFQALQAxAC4AMDAlBggrBgEFBQcCARYZaHR0cDovL3B1Yi52bnB0LWNhLnZuL3JwYTAxBgNVHR8EKjAoMCagJKAihiBodHRwOi8vY3JsLnZucHQtY2Eudm4vdm5wdGNhLmNybDAOBgNVHQ8BAf8EBAMCBPAwIAYDVR0lBBkwFwYKKwYBBAGCNwoDDAYJKoZIhvcvAQEFMB8GA1UdEQQYMBaBFGtpbWhhbmcxMDNAeWFob28uY29tMA0GCSqGSIb3DQEBBQUAA4ICAQBGHruUcXGytA3S6YA4HqzUsP35vRFo9tyNNxJqLgmocu/30jZ2edoS0nGsO+hiBRw7+eA31tw6CLx1AsWw0zcu8zxzWa+IalxAAsWXDQNca0P9g/WqbLvykq5JMDd1TAkSkunI8/bRqcRmoQjpPsYv+cfl0UWfPZqOJUCb1bkMuJHDbENogjWKsTE7Ps4yXEkYOcsQ6drpxUKriU7mClPaEnRIezpuIzw68WKbOoKv66Q81jspohSk1uMudIBSLN1C4SIfiqnz1MT65HjF1iE7oMZAt4+KU1zNR14u2cI1cGniKEmn6jd5i2y45ioImRLHvaBcpFM4cK3h3atNX4cdgDryDLLV074oVhbhKHUwRLb8C09fc+b5JNkux4U9pQYd7zv3GtI+cBAtjzQF+O3eK3+A4hZfuJtaWDW8WsudVzxk24nzw8X/BAa0n1oV2KM+J3lapU6+uNc7H1CTPDFxtQ0f0F8A+W2O4YJ1NeCdxKHah+VRihi0lTT7MMOuZ88xWW28mPl+gh9fLqTzwPwa0JO+G5B69ZVCZlD4G5gh1E7Q5ucI/QqRtz+sDjOn2O6MAw0+MQNZHDuYg+lxbv9r8kIMEoDfcND/VAl8j8EjoZ9hB7rX6n/WZN33w8VlPb74+IrzVf0lSs7jWneGY8pZJyTl3y1ciFlNYKadhHKEIA==</X509Certificate></X509Data></KeyInfo></Signature><XsltFile>&lt;xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:msxsl="urn:schemas-microsoft-com:xslt" exclude-result-prefixes="msxsl js" xmlns="http://www.w3.org/1999/xhtml" xmlns:js="urn:custom-javascript" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"&gt;&lt;xsl:param name="bien" select="0" /&gt;&lt;xsl:param name="bien1" select="0" /&gt;&lt;xsl:variable name="itemCount"&gt;&lt;xsl:value-of select="count(Invoice//Content//Products//Product)" /&gt;&lt;/xsl:variable&gt;&lt;xsl:template name="addZero"&gt;&lt;xsl:param name="count" /&gt;&lt;xsl:if test="$count &amp;gt; 0"&gt;&lt;xsl:text&gt;0&lt;/xsl:text&gt;&lt;xsl:call-template name="addZero"&gt;&lt;xsl:with-param name="count" select="$count - 1" /&gt;&lt;/xsl:call-template&gt;&lt;/xsl:if&gt;&lt;/xsl:template&gt;&lt;xsl:template name="congphi"&gt;&lt;xsl:param name="count" /&gt;&lt;xsl:if test="$count &amp;gt; 0"&gt;&lt;xsl:value-of select="$count"&gt;&lt;/xsl:value-of&gt;&lt;xsl:text&gt;0&lt;/xsl:text&gt;&lt;xsl:call-template name="addZero"&gt;&lt;xsl:with-param name="count" select="$count - 1" /&gt;&lt;/xsl:call-template&gt;&lt;/xsl:if&gt;&lt;/xsl:template&gt;&lt;xsl:template name="addDots"&gt;&lt;xsl:param name="val" /&gt;&lt;xsl:param name="val1" /&gt;&lt;xsl:param name="val2" /&gt;&lt;xsl:param name="i" select="1" /&gt;&lt;xsl:if test="$val1&amp;gt;0"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="$val2 !=0"&gt;&lt;xsl:value-of select="substring($val,$i,$val2)" /&gt;&lt;xsl:if test="substring($val,$i+$val2+1,1) !=''"&gt;&lt;xsl:text&gt;.&lt;/xsl:text&gt;&lt;/xsl:if&gt;&lt;xsl:call-template name="addDots"&gt;&lt;xsl:with-param name="val" select="$val" /&gt;&lt;xsl:with-param name="val1" select="$val1 - 1" /&gt;&lt;xsl:with-param name="i" select="$i + $val2" /&gt;&lt;xsl:with-param name="val2" select="3" /&gt;&lt;/xsl:call-template&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;&lt;!--&lt;xsl:text&gt;test&lt;/xsl:text&gt;--&gt;&lt;xsl:value-of select="substring($val,$i,3)" /&gt;&lt;xsl:if test="substring($val,$i+3,1) !=''"&gt;&lt;xsl:text&gt;.&lt;/xsl:text&gt;&lt;/xsl:if&gt;&lt;xsl:call-template name="addDots"&gt;&lt;xsl:with-param name="val" select="$val" /&gt;&lt;xsl:with-param name="val1" select="$val1 - 1" /&gt;&lt;xsl:with-param name="i" select="$i + 3" /&gt;&lt;xsl:with-param name="val2" select="3" /&gt;&lt;/xsl:call-template&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/xsl:if&gt;&lt;/xsl:template&gt;&lt;xsl:template name="addLine"&gt;&lt;xsl:param name="count" /&gt;&lt;xsl:if test="$count &amp;gt; 0"&gt;&lt;tr class="noline back"&gt;&lt;td class="stt" style="height:32px; border-right: 1px solid #004F9E!important; border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;xsl:value-of select="''" /&gt;&lt;/td&gt;&lt;td class="back-bold" style="height:32px; border-right: 1px solid #004F9E!important;border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;xsl:value-of select="''" /&gt;&lt;/td&gt;&lt;td class="back-bold" style="height:32px; border-right: 1px solid #004F9E!important;border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;xsl:value-of select="''" /&gt;&lt;/td&gt;&lt;td class="back-bold" style="height:32px; border-right: 1px solid #004F9E!important;border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;xsl:value-of select="''" /&gt;&lt;/td&gt;&lt;td class="back-bold" style="height:32px; border-right: 1px solid #004F9E!important;border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;xsl:value-of select="''" /&gt;&lt;/td&gt;&lt;td class="back-bold" style="height:32px; border-right: 1px solid #004F9E!important;border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;xsl:value-of select="''" /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;xsl:call-template name="addLine"&gt;&lt;xsl:with-param name="count" select="$count - 1" /&gt;&lt;/xsl:call-template&gt;&lt;/xsl:if&gt;&lt;/xsl:template&gt;&lt;xsl:template name="findSpaceChar"&gt;&lt;xsl:param name="str" /&gt;&lt;xsl:variable name="strLength"&gt;&lt;xsl:value-of select="string-length($str)" /&gt;&lt;/xsl:variable&gt;&lt;xsl:if test="$strLength &amp;gt; 0"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="substring($str, $strLength) != ' '"&gt;&lt;xsl:call-template name="findSpaceChar"&gt;&lt;xsl:with-param name="str" select="substring($str, 1, $strLength - 1)" /&gt;&lt;/xsl:call-template&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;&lt;xsl:value-of select="$strLength" /&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/xsl:if&gt;&lt;/xsl:template&gt;&lt;xsl:template name="tempAmount_words"&gt;&lt;xsl:param name="str" /&gt;&lt;xsl:variable name="strLength"&gt;&lt;xsl:value-of select="string-length($str)" /&gt;&lt;/xsl:variable&gt;&lt;xsl:variable name="row1Length"&gt;&lt;xsl:value-of select="88" /&gt;&lt;/xsl:variable&gt;&lt;xsl:choose&gt;&lt;xsl:when test="$strLength &amp;gt; $row1Length"&gt;&lt;xsl:variable name="str0"&gt;&lt;xsl:value-of select="substring($str, 1, $row1Length)" /&gt;&lt;/xsl:variable&gt;&lt;xsl:variable name="spaceCharPosition"&gt;&lt;xsl:call-template name="findSpaceChar"&gt;&lt;xsl:with-param name="str" select="$str0" /&gt;&lt;/xsl:call-template&gt;&lt;/xsl:variable&gt;&lt;xsl:variable name="str1"&gt;&lt;xsl:value-of select="substring($str0, 1, $spaceCharPosition)" /&gt;&lt;/xsl:variable&gt;&lt;xsl:variable name="str2"&gt;&lt;xsl:value-of select="substring($str, $spaceCharPosition + 1)" /&gt;&lt;/xsl:variable&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l" style="padding-top: 0px; line-height: 20px; padding-left: 0px; font-size:17px; font-weight:normal; color:#004F9E; margin-top:0px solid #fff"&gt;
+                        Số tiền viết bằng chữ &lt;i style="font-size:15px"&gt;(Amount in words)&lt;/i&gt;: 
+                    &lt;/label&gt;&lt;label class="fl-l input-name" style="padding-top: 0px; padding-left: 0px; width: 611px; line-height: 20px; min-width: 100px; display:block; border-bottom:0px dotted #fff!important"&gt;&lt;xsl:value-of select="$str1" /&gt;&lt;/label&gt;&lt;/div&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l input-name" style="margin-left: 0px; width: 890px; height:20px; min-width: 100px; display:block"&gt;&lt;xsl:value-of select="$str2" /&gt;&lt;/label&gt;&lt;/div&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l" style="padding-top: 0px; line-height: 20px; font-size:17px; padding-left: 0px; font-weight: normal; color: #004F9E; margin-top: 0px solid #fff!important"&gt;
+                        Số tiền viết bằng chữ &lt;i style="font-size:15px"&gt;(Amount in words)&lt;/i&gt;: 
+                    &lt;/label&gt;&lt;label class="fl-l input-name" style="padding-top: 0px; padding-left: 0px; width: 611px; line-height: 20px; min-width: 100px; display: block; color: #004F9E; border-bottom: 0px dotted #fff!important"&gt;&lt;xsl:value-of select="$str" /&gt;&lt;/label&gt;&lt;div class="clearfix"&gt;&lt;/div&gt;&lt;!-- &lt;label class="fl-l input-name" style="margin-left:0px; width:890px; height:20px; min-width: 100px; display: block; border-bottom:0px dotted #fff!important" /&gt; --&gt;&lt;/div&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/xsl:template&gt;&lt;xsl:template match="/"&gt;&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;&lt;head&gt;&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt;&lt;meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /&gt;&lt;!--&lt;link href="styles.css" type="text/css" rel="stylesheet" /&gt;--&gt;&lt;title&gt;VAT&lt;/title&gt;&lt;style type="text/css" rel="stylesheet"&gt;
+          html, body
+          {
+          margin: 0;
+          padding: 0;
+          height: 100%;
+          background-color: white;
+          }
+          #main
+          {
+          margin: 0 auto;
+          }
+          .VATTEMP
+          {
+          background-color: white;
+          font-family: Times New Roman;
+          width: 950px;
+          font-size: 16px;
+          overflow: auto;
+          }
+          .VATTEMP .header-main, .content
+          {
+          width: 790px;
+          }
+           .VATTEMP #logo{
+			width: 180px;
+			float: left;
+			height: 90px;
+			background: url('data:image/jpeg;base64,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')
+
+ no-repeat;
+			margin-left: 0px;
+			}
+          .VATTEMP .header
+          {
+          float: right;
+          width: 613px;
+          }
+          .VATTEMP .header-content
+          {
+          float: left;
+          text-align: center;
+          width: 400px;
+          }
+          .VATTEMP .header h2
+          {
+          font-size: 1em;
+          }
+          .VATTEMP .header h2, .header p
+          {
+          margin: 0;
+          }
+          .VATTEMP .header p.name-upcase
+          {
+          font-size: 16px;
+          text-transform: uppercase;
+          }
+          .VATTEMP .header-note
+          {
+          float: right;
+          font-size: 100%;
+          width: 175px;
+          margin-top: 0;
+          }
+          .VATTEMP .header .number
+          {
+          font-family: Times New Roman;
+          font-size: 100%;
+          }
+          .clearfix:after
+          {
+          clear: both;
+          content: ".";
+          display: block;
+          height: 1px;
+          overflow: hidden;
+          visibility: hidden;
+          }
+          .clearfix
+          {
+          clear: both;
+          }
+          .VATTEMP .input-code
+          {
+          border: 1px solid #004F9E!important;
+          float: left;
+          font-weight: normal;
+          text-align: center;
+          width: 18px;
+          height: 16px;
+          }
+          .VATTEMP div label.fl-l, div label
+          {
+          margin-right: 0;
+          margin-top: 3px;
+
+          }
+          .VATTEMP .input-name, .input-date
+          {
+          border: 0;
+          border-bottom: 1px dotted #004F9E!important;
+          }
+          .VATTEMP .statistics
+          {
+          clear: both;
+          margin-right: 0;
+          padding-top: 2px;
+          }
+          .nenhd
+          {
+          position: relative;
+          }
+         .nenhd_bg{
+		  background-repeat:no-repeat; 
+		  width: 352px;
+		  height: 320px;
+		  top: 530px;
+		  left: 280px;
+		  position: absolute;
+		  z-index: 1;
+		  margin: 0; 
+		  opacity: 0.2;
+		  &lt;!-- background:url('data:image/jpeg;base64,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') --&gt;
+
+;
+		  }
+          .VATTEMP .statistics table
+          {
+          background-position: bottom;
+          border: 0 none;
+          font-size: 100%;
+          margin: 0;
+          position: relative;
+          z-index: 2;
+          width: 806px;
+          }
+          table
+          {
+          border-collapse: collapse;
+          }
+          .VATTEMP .statistics table th
+          {
+          font-size: 100%;
+          text-transform: none;
+          font-weight: bold;
+          border-bottom: 1px solid #004F9E!important;
+          border-right: 1px solid #004F9E!important;
+          border-left: 1px solid #004F9E!important;
+          border-top: 1px solid #004F9E!important;
+          }
+          .VATTEMP .statistics table th.h2
+          {
+          font-size: 100%;
+          text-transform: none;
+          font-weight: normal;
+          border-bottom: 1px solid #004F9E!important;
+          border-right: 1px solid #004F9E!important;
+          border-left: 1px solid #004F9E!important;
+          border-top: 1px solid #004F9E!important;
+          }
+          .VATTEMP .statistics table td.stt
+          {
+          text-align: center;
+          padding-left: 0;
+          }
+          .VATTEMP .statistics table td.stt2
+          {
+          text-align: center;
+          color: #004F9E;
+          }
+          .VATTEMP .statistics table .back td
+          {
+          color: #004F9E;
+          font-family: Times New Roman;
+          font-size: 100%;
+          }
+          .VATTEMP .statistics table .noline td
+          {
+          border-bottom: 0px dotted #fff!important;
+          border-right: 0px solid #fff!important;
+          border-left: 0px solid #fff!important;
+          border-top: 0 none;
+          }
+          .VATTEMP .statistics table td
+          {
+          border-right: 0px solid #fff!important;
+          border-left: 0px solid #fff!important;
+          padding-top: 2px;
+          padding-bottom: 2px;
+          padding-right: 2px;
+          padding-left: 5px;
+          }
+          .VATTEMP .statistics tr td.back-bold
+          {
+          font-size: 100%;
+          border-bottom: 0px dotted #fff!important;
+          }
+          .VATTEMP .statistics table .back-bold
+          {
+          padding-right: 5px;
+          text-align: right;
+          }
+          .VATTEMP .statistics tr td.back-bold2
+          {
+          font-size: 100%;
+          border-bottom: 1px dotted #004F9E!important;
+          }
+          .VATTEMP .statistics tr td.back-bold3
+          {
+          font-size: 100%;
+          border-bottom: none!important;
+          }
+          .VATTEMP .statistics table .back-bold2
+          {
+          padding-left: 5px;
+          text-align: left;
+          }
+          .VATTEMP .statistics tr.bg-pink td
+          {
+          font-size: 100%;
+          text-align: right;
+          background: none repeat scroll 0 0 #fedccc;
+          }
+          .VATTEMP .payment, .date
+          {
+          margin: 0 auto;
+          text-align: center;
+          width: 35%;
+          }
+          .VATTEMP .payment
+          {
+          float: left;
+          }
+          .VATTEMP .payment p, .date p
+          {
+          margin: 0;
+          }
+          .VATTEMP .date
+          {
+          float: right;
+          height: 120px;
+          }
+          .VATTEMP .input-date
+          {
+          width: 40px;
+          }
+          .VATTEMP .input-name, .back-bold, .input-date
+          {
+          font-family: Times New Roman;
+          font-size: 100%;
+          }
+          .fl-l2
+          {
+          float: left;
+          color: #004F9E;
+          }
+          .fl-l
+          {
+          float: left;
+          min-height: 16px;
+
+          }
+          .bgimg
+          {
+          border: 1px solid #004F9E!important;
+          cursor: pointer;
+          width: 200px;
+          }
+          .bgimg p
+          {
+          color: #004F9E;
+          padding-left: 5px;
+          text-align: left;
+          }
+          p
+          {
+          font-size: 17px;
+          }
+          .item
+          {
+          color: #004F9E;
+          }
+		  .head_com
+		  {
+		  margin-top: 3px;
+		  margin-bottom: 3px;
+		  font-size: 16px;
+		  }
+		  .comment_small
+		  {
+		  font-size: 16px;
+		  }
+		  @page {	size: a4;	margin: 5mm 5mm 5mm 5mm;}
+        &lt;/style&gt;&lt;xsl:text disable-output-escaping="yes"&gt;&lt;![CDATA[        
+				&lt;script&gt;		
+					var ua = window.navigator.userAgent;
+					var msie = ua.indexOf("MSIE 8");
+					var activePage = 1;
+				  
+					var totalPage = 0; 
+					var  pageCount = 0;
+					function ShowCurrentPage() {
+			
+						totalPage = $('.VATTEMP').length;
+						// draw controls
+						showPaginationBar(totalPage);
+						pageCount =totalPage;
+						// show first page
+						showPageContent(1);
+					};
+					   function showPaginationBar (numPages) {
+						var pagins = '';
+						for (var i = 1; i &lt;= numPages; i++) {
+						  $($('.VATTEMP')[i-1]).hide();
+							pagins += '&lt;span class="number" id="ap' + i + '" onclick="showPageContent(' + i + '); return false;"&gt;' + i + '&lt;/span&gt;';
+						}
+						
+						$('.pagination span:first-child').after(pagins);
+							$('#prev').click(function () {
+						if (activePage &gt; 1)
+							showPageContent(activePage - 1);
+					});
+					// and Next
+					$('#next').click(function () {
+						if (activePage &lt; pageCount)
+							showPageContent(activePage + 1);
+					});
+					};
+					   function showPageContent (page) {
+					   
+					   $($('.VATTEMP')[activePage-1]).hide();
+					   
+							   $($('.VATTEMP')[page-1]).show();
+						$(".number").removeClass("selected");
+						$("#ap" + page).addClass("selected");
+						activePage = page;
+				   };			
+				&lt;/script&gt;		
+			]]&gt;&lt;/xsl:text&gt;&lt;script&gt;
+			function displayCert(certName){window.external.displayCert(certName);}function htmlEncode(value) {return $('&lt;div /&gt;').text(value).html();}function htmlDecode(value) {return $('&lt;div /&gt;').html(value).text();}
+        &lt;/script&gt;&lt;/head&gt;&lt;body&gt;&lt;center&gt;&lt;div id="printView" style="position: relative; background-color: white; width: 100%"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="/Invoice/Invcancel!=''"&gt;&lt;img style="position: absolute; left: 0px; top: 0px; width: 100%; height: auto; z-index: 3" width="100%" height="900px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAOECAMAAADOkA8JAAAAY1BMVEVHcEz/AAD/AAD+AAD/AAD/AAD+AAD/AAD+AAD/AAD+AAD/AAD/AAD+AAD+AAD/AAD/AAD/AAD/AAD+AAD/AAD/AAD+AAD/AAD+AAD/AAD/AAD/AAD+AAD/AAD+AAD/AAD/AAADq+BvAAAAIHRSTlMACgX88Bf+AfcP6axW1+AfMmLOtzsob6GNS8B6x4SXRBjjj18AABQKSURBVHhe7dzbUhtJGoXRRDL5g8EG2RyNObz/U06MBZHR0z1twEK7pFrrsmeio6nKT1tCQu2yBQCHX57+69N5+xytEDTYnqIVggbbU09WCBpsT09b3kLg8Nu6wYu2jjC2haDBdYTJLQQNtq/RCkGD7WybFQLHo8HtVwjUaLBlKwQ7mK4Q7GC+QrCDf6/wvH0w0GA/Gg0GKgQ7OBpMVQgazFYIGgxUCBz/XDf4+Lo/rkgADbZ29qvCHqgQNJjeQtBgfgtBg/ktBA22ClQIGgxsIWhwK1sIHP8YDba3buFF+0PAwXODt+/5SsQeqBA0GNhC0GCgQtBgoELQYLRC0OD7v6A0ADSYrRA0mK8QNDgqPHpjhcDB91/xLEeDgQpBg0enm/yaxADQ4PjS7qPHFgAabPVS4ae3VQgaXJ62DUluIWhwPCPtr6kQWGyqwfwWggaH92whaDC3haDB9FfVgAb3rULQ4Kjwtv0OaDBQIbA4GQ3GKgQN9tFgokKwg6tW0QpBg8MeVQgaHI5/JCoEDQ4H0QpBg62eK1yOCgfQYGoLQYN9NLi1Ck8b0Go0mK0QNJitEDQYqXA5KgQNJirs864QFtdPv6yyXyg1W1DXmR1cKxWuocHlVVuzhRnYwUCD+QpBg/kKQYP5CkGDKkSDk/l6qa5CNBiucLlqc4MGn0aDE6iwb6dC0KAthHoYDaoQNKhCNDjDr9jIQ4P9riWpEDt416amxlfdgAYzghWCBlWIBlUIGhwVPu1nhRBt0BZC3YwGd6DCqwYazCgVosFpVLjcrwrhucH7lmUL0aA/OQYNqhANTl8tkhWCBm0hGsyr8RUcOw7qfjToi3ACIN5gfgtBg7YQDd7s9lcz3jXQYIQK0WDeusKuQjToD5Ej0GBeva9C0KAthLvnBqsFqBBqEg2qEDv4kGxQhWiwjwb3pML7BnYwWmFXIRoMsYVoME+FaDCsblSIBqPq9xWCBm0hXCUb9HU5UIEGIxXeNLCD0Qr7lCtEg/062qAtxA6GGlQhXPXRoApBg/5cGQ3OoMLADwsaVCEaVCFocFT4oEI0qEJoq1yD+Qp7vEKodYP9pFqQLcQOnpQ/2wINqhANzkyp8Bc0aAvR4KIlqBBWy6k0qEI0qMLreVeIBlWIBlXYZ1ohGvTFHmiQqm1XCHX6lwbZdoUwhQZViB3s36MNel2IHdSgP23+B2hQhWhQhSfzrhANqhANqrDve4Vo0BaiwYP2GypctL2DBv2hM5we/bZBqsIVokE+qkK4nUCDthA72H9EG/S6EDuoQRWiQX/0vCvQoArRoArzHy5Cgyrs76sQNGgL0aAtBA3aQjToT7/g8bnB4/Ye1Gb+8AQN/nxng1S8QjRItkI0iArRoArRICpEgypEgyrcqbdb0aAK4WLd4Ldkg74eBA32zTaowldsIdhBFaJBH4aHi08f0yCLcIVokJpKhWhQhanLiwa5ncQbsGhQhf3fK0SDh21GbCEatIWgQVuIBlUIdf6rwf4l06A/UoF1g09baZBKV4gGeQx/QBcN8pj4czE0iC1EgypEg6gQDaoQDeJLDAbOP+capKZSIRq0hYcNDaJCNOiD87OlwbOWQ823Quoy2iC2kOcGv8Yb5GLObxPZwf7SIC#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#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" /&gt;&lt;/xsl:when&gt;&lt;/xsl:choose&gt;&lt;xsl:for-each select="Invoice//Content/Products/Product[(position()-1) mod 12 = 0]"&gt;&lt;xsl:variable name="level1Count" select="(position()-1)*12" /&gt;&lt;xsl:variable name="pageC" select="(position())" /&gt;&lt;div class="VATTEMP"&gt;&lt;div class="pagecurrent" id="page_{position()}"&gt;&lt;div style="width:930px"&gt;&lt;div class="statistics"&gt;&lt;div style="padding-bottom:2px; font-size:11px; width:870px; text-align: center; color:#004F9E; margin-bottom: 0px"&gt;
+											 &lt;!-- &lt;i&gt;Đơn vị cung cấp giải pháp hóa đơn điện tử: Trung tâm Kinh doanh VNPT TP. Hồ Chí Minh - Chi nhánh Tổng Công ty Dịch vụ Viễn thông, MST: 0106869738 - 005, Điện thoại: 18001260&lt;/i&gt; --&gt;&lt;/div&gt;&lt;!-- &lt;div style="border:2px solid #004F9E!important; margin-top:5px; width:930px"&gt; 				  				  						   --&gt;&lt;div class="nenhd" style="margin-bottom:3px"&gt;&lt;table width="100%" cellspacing="0" cellpadding="0" border="0" style="width:880px; border:2px solid #004F9E!important;"&gt;&lt;thead&gt;&lt;!--&lt;xsl:copy-of select="$header" /&gt;--&gt;&lt;xsl:for-each select="/Invoice//Content"&gt;&lt;tr style="border-top: 0px solid #fff!important; background-color: white!important"&gt;&lt;td colspan="6" style="padding-left: 0px; padding-right: 0px"&gt;&lt;table cellspacing="0" cellpadding="0" style="width:920px; float: left; margin-bottom: 10px"&gt;&lt;tr&gt;&lt;td style="width:200px; border-left: 0px solid #fff!important; border-right: none!important; border-bottom: none!important"&gt;&lt;div id="logo" style="width:132px; height:120px; margin-left:20px; margin-top:5px" /&gt;&lt;/td&gt;&lt;td colspan="4" style="vertical-align:top; width:430px; border-top:0px solid #fff!important; border-bottom: 0px solid #fff!important; border-left: none!important; border-right: none!important"&gt;&lt;div style="margin-top: 0px; text-align: center"&gt;&lt;div style="width:430px"&gt;&lt;div&gt;&lt;p class="name-upcase" style="padding-left: 0px; color:#004F9E; font-weight:bold; line-height:30px; margin-top: 20px; margin-bottom: 20px; font-size:30px; text-transform: uppercase"&gt;
+																							HÓA ĐƠN GIÁ TRỊ GIA TĂNG &lt;br /&gt;
+																							(VAT INVOICE)
+																						&lt;/p&gt;&lt;/div&gt;&lt;div style="margin-top:0px; margin-bottom:0px; color:#004F9E"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="substring(ArisingDate,7,4)!= '1957' and substring(ArisingDate,7,4)!= ''"&gt;										
+																								Ngày (Day)
+																									&lt;!-- &lt;i style="font-size:15px"&gt; (Day) &lt;/i&gt; --&gt;&lt;label style="border-bottom:1px dotted #004F9E!important"&gt;&lt;b&gt;&lt;xsl:value-of select="substring(ArisingDate,1,2)" /&gt;&lt;/b&gt;&lt;/label&gt;
+																								tháng (month)
+																								&lt;!-- &lt;i style="font-size:15px"&gt; (month) &lt;/i&gt; --&gt;&lt;label style="border-bottom: 1px dotted #004F9E!important"&gt;&lt;b&gt;&lt;xsl:value-of select="substring(ArisingDate,4,2)" /&gt;&lt;/b&gt;&lt;/label&gt;
+																								năm (year) 
+																								&lt;label style="border-bottom: 1px dotted #004F9E!important"&gt;&lt;!--&lt;xsl:value-of select="substring(ArisingDate,9,2)"/&gt;--&gt;&lt;b&gt;&lt;xsl:value-of select="concat('20',substring(ArisingDate,9,2))" /&gt;&lt;/b&gt;&lt;/label&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																								Ngày (Day) &lt;label style="border-bottom: 1px dotted #004F9E!important"&gt;       &lt;/label&gt;tháng (month)&lt;label style="border-bottom:1px dotted #004F9E!important"&gt;       &lt;/label&gt;năm (year)&lt;label style="border-bottom:1px dotted #004F9E!important"&gt;       &lt;/label&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;xsl:if test="$itemCount&amp;gt;12"&gt;&lt;label style="display: block; color:#004F9E"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="$pageC = 1"&gt;
+																									Trang &lt;xsl:value-of select="$pageC" /&gt;/&lt;xsl:value-of select="ceiling($itemCount div 12)" /&gt;&lt;/xsl:when&gt;&lt;xsl:when test="$pageC &amp;gt; 1"&gt;
+																									Tiếp theo trang trước - Trang &lt;xsl:value-of select="$pageC" /&gt;/&lt;xsl:value-of select="ceiling($itemCount div 12)" /&gt;&lt;/xsl:when&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/xsl:if&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;td colspan="1" style="vertical-align:top; width:220px; text-align:top; border-left: none!important; border-right: none!important; border-bottom:0px solid #fff!important; border-top:0px solid #fff!important"&gt;&lt;div class="header-note" style="width:220px; font-size:17px; text-align: left; color: #004F9E; line-height: 30px"&gt;&lt;p style="color:#004F9E; font-size:17px; margin-top:10px; margin-bottom: 0px"&gt;
+																					Mẫu số (Form):
+																					&lt;span style="font-weight:bold"&gt;&lt;xsl:value-of select="InvoicePattern" /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="color: #004F9E; font-size:17px; margin-top:5px; margin-bottom:0px"&gt;
+																					Ký hiệu (Serial):
+																					&lt;span style="font-weight:bold"&gt;&lt;xsl:value-of select="SerialNo" /&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="color: #004F9E; font-size:17px; margin-top:5px; margin-bottom:0px"&gt;
+																					Số (No):  
+																					&lt;span style="font-weight: bold; color:red; font-size:24px"&gt;&lt;xsl:call-template name="addZero"&gt;&lt;xsl:with-param name="count" select="7-string-length(InvoiceNo)" /&gt;&lt;/xsl:call-template&gt;&lt;xsl:value-of select="InvoiceNo" /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table cellspacing="0" cellpadding="0" style="margin-bottom: 5px; width:920px; float: left; color: #004F9E; border-top:1px solid #004F9E!important; border-bottom:1px solid #004F9E!important"&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size:17px; border-left: none!important; border-right: none!important"&gt;&lt;div class="clearfix" style="margin-top:10px"&gt;&lt;label class="fl-l2" style="width:204px; margin-top"&gt;
+																					Đơn vị bán hàng (Company): 
+																				&lt;/label&gt;&lt;label class="fl-l" style="width:705px; font-size:19px; color:#004F9E"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="ComName!=''"&gt;&lt;b&gt;&lt;xsl:value-of select="ComName" /&gt;&lt;/b&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="border-left:none!important; border-right:none!important"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2" style="width:155px;"&gt;
+																					Mã số thuế (Tax code): 
+																				&lt;/label&gt;&lt;label class="fl-l" style="width:705px; font-size:19px; color:#004F9E; margin-top:0px"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="ComTaxCode!=''"&gt;&lt;b&gt;&lt;xsl:value-of select="ComTaxCode" /&gt;&lt;/b&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;!-- &lt;td colspan="1" style="font-size:17px; border-left: none!important; border-right: none!important"&gt; --&gt;&lt;!-- &lt;div class="fl-l2"&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,1,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code"  maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; border-left:0px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,2,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; border-left:0px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,3,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; border-left:0px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,4,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; border-left:0px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,5,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; border-left:0px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,6,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; border-left:0px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,7,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; border-left:0px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,8,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:1px; border-left:0px; height:20px" &gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,9,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="input-code" maxlength="1" style="font-weight:bold; width:20px; margin-right:5px; border-left:0px; height:20px"&gt; --&gt;&lt;!-- &lt;xsl:value-of select="substring(ComTaxCode,10,1)"/&gt; --&gt;&lt;!-- &lt;/label&gt;				 --&gt;&lt;!-- &lt;/div&gt; --&gt;&lt;!-- &lt;/td&gt; --&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size:17px; border-left: none!important; border-right: none!important"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2" style="width:130px"&gt;
+																					Địa chỉ (Address): 
+																				&lt;/label&gt;&lt;label class="fl-l" style="width:767px"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="ComAddress!=''"&gt;&lt;xsl:value-of select="ComAddress" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size:17px; border-left: none!important; border-right: none!important"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2" style="width:140px"&gt;
+																					Số điện thoại (Tel): 
+																				&lt;/label&gt;&lt;label class="fl-l" style=" "&gt;&lt;xsl:choose&gt;&lt;xsl:when test="ComPhone!=''"&gt;&lt;xsl:value-of select="ComPhone" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;!-- &lt;label class="fl-l2" style="padding-left:50px"&gt; --&gt;&lt;!-- Fax : (028) 37198785   --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;!-- &lt;label class="fl-l2" style="padding-left:50px"&gt; --&gt;&lt;!-- Website : http://www.duyphong.vn/  --&gt;&lt;!-- &lt;/label&gt; --&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size:17px; border-left: none!important; border-right: none!important"&gt;&lt;div class="clearfix" style="margin-bottom:10px"&gt;&lt;label class="fl-l2" style="width:197px"&gt;
+																					Số tài khoản (Account No.): 
+																				&lt;/label&gt;&lt;label class="fl-l" style="width:700px"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="ComBankNo!=''"&gt;&lt;xsl:value-of select="ComBankNo" /&gt;  tại &lt;xsl:value-of select="ComBankName" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table cellspacing="0" cellpadding="0" style="margin-bottom: 5px; width:920px; float: left; color:#004F9E; border-top:0px solid #fff!important"&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size:17px; border-left: none!important; border-right: none!important"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2" style="width: 306px"&gt;
+																					Họ tên người mua hàng (Customer's Name): 
+																				&lt;/label&gt;&lt;label class="fl-l input-name" style="width:584px; padding-left:10px;"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="Buyer!=''"&gt;&lt;xsl:value-of select="Buyer" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size: 17px; border-left: none!important; border-right: none!important"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2" style="width: 210px"&gt;
+																					Tên đơn vị (Company name): 
+																				&lt;/label&gt;&lt;label class="fl-l input-name" style="width:680px; padding-left:10px;"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="CusName!=''"&gt;&lt;xsl:value-of select="CusName" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size:17px; border-left: none!important;border-right: none!important;"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2" style="width:130px"&gt;
+																					Địa chỉ (Address): 
+																				&lt;/label&gt;&lt;label class="fl-l input-name" style="width:760px; padding-left:10px;"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="CusAddress!=''"&gt;&lt;xsl:value-of select="CusAddress" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size:17px; border-left: none!important; border-right: none!important;"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2" style="width:200px"&gt;
+																					Số tài khoản (Account No.): 
+																				&lt;/label&gt;&lt;label class="fl-l input-name" style="padding-left:10px; width:690px"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="CusBankNo!=''"&gt;&lt;xsl:value-of select="CusBankNo" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																						 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="font-size:17px; border-left: none!important; border-right: none!important"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2 " style="width: 165px"&gt;
+																					Mã số thuế (Tax code):
+																				&lt;/label&gt;&lt;label class="fl-l input-name" style="width:171px; font-size:17px; color:#004F9E; padding-left:10px;"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="CusTaxCode!=''"&gt;&lt;b&gt;&lt;xsl:value-of select="CusTaxCode" /&gt;&lt;/b&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																							 
+																						&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;label class="fl-l2" style="width:304px"&gt;
+																					Hình thức thanh toán (Method of Payment): 
+																				&lt;/label&gt;&lt;xsl:choose&gt;&lt;xsl:when test="Kind_of_Payment!=''"&gt;&lt;label class="fl-l input-name" style="width:240px; padding-left:10px;"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="Kind_of_Payment ='TM'"&gt;
+																								Tiền mặt
+																								&lt;/xsl:when&gt;&lt;xsl:when test="Kind_of_Payment ='CK'"&gt;
+																								Chuyển khoản
+																								&lt;/xsl:when&gt;&lt;xsl:when test="Kind_of_Payment ='TTD'"&gt;
+																								Thẻ tín dụng
+																								&lt;/xsl:when&gt;&lt;xsl:when test="Kind_of_Payment ='HDDT'"&gt;
+																								Hình thức HDDT
+																								&lt;/xsl:when&gt;&lt;xsl:when test="Kind_of_Payment ='BT'"&gt;
+																								Bù trừ
+																								&lt;/xsl:when&gt;&lt;xsl:when test="Kind_of_Payment ='TM, CK'"&gt;
+																								TM/CK
+																								&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;&lt;label class="fl-l input-name" style="width:240px; padding-left:10px;"&gt;
+																									 
+																									&lt;/label&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;&lt;label class="fl-l input-name" style="width:240px; padding-left:10px;"&gt;&lt;center&gt;
+																							   
+																							&lt;/center&gt;&lt;/label&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/xsl:for-each&gt;&lt;/thead&gt;&lt;tbody class="nenhd"&gt;&lt;tr style="color: #004F9E; height:50px; font-size:17px"&gt;&lt;th style="font-weight: bold; width:40px"&gt;
+															STT&lt;br /&gt;&lt;span style="font-weight: normal; font-size:15px"&gt;(No)&lt;/span&gt;&lt;/th&gt;&lt;th style="font-weight: bold"&gt;
+															Tên hàng hóa, dịch vụ&lt;br /&gt;&lt;n style="font-weight: normal; font-size:15px"&gt;(Description)&lt;/n&gt;&lt;/th&gt;&lt;th style="font-weight: bold; width:90px"&gt;
+															Đơn vị tính &lt;br /&gt;&lt;n style="font-weight: normal; font-size:15px"&gt;(Unit)&lt;/n&gt;&lt;/th&gt;&lt;th style="font-weight bold; width:80px"&gt;
+															Số lượng&lt;br /&gt;&lt;n style="font-weight: normal; font-size:15px"&gt;(Quantity)&lt;/n&gt;&lt;/th&gt;&lt;th style="font-weight: bold; width:100px"&gt;
+															Đơn giá&lt;br /&gt;&lt;n style="font-weight: normal; font-size:15px"&gt;(Unit Price)&lt;/n&gt;&lt;/th&gt;&lt;th style="font-weight: bold; width:120px"&gt;
+															Thành tiền &lt;br /&gt;&lt;n style="font-weight: normal; font-size:15px"&gt;(Amount)&lt;/n&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr style="color:#004F9E; font-weight:normal; font-size:17px; height:20px"&gt;&lt;th class="h2"&gt;
+														1
+														&lt;/th&gt;&lt;th class="h2"&gt;
+														2
+														&lt;/th&gt;&lt;th class="h2"&gt;
+														3
+														&lt;/th&gt;&lt;th class="h2"&gt;
+														4
+														&lt;/th&gt;&lt;th class="h2"&gt;
+														5
+														&lt;/th&gt;&lt;th class="h2"&gt;
+														6 = 4 x 5
+														&lt;/th&gt;&lt;/tr&gt;&lt;xsl:for-each select="..//../Products/Product[  ($level1Count  + 12)  &amp;gt;= position() and  position() &amp;gt;  $level1Count]"&gt;&lt;tr class="noline back"&gt;&lt;td class="stt" style="height:32px; border-right: 1px solid #004F9E!important; border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;div style="display: block"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="ProdName!=''"&gt;&lt;xsl:value-of select="position() + $level1Count" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																	 
+																	&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="back-bold2" style="border-right: 1px solid #004F9E!important;border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;div style="display: block; word-wrap: break-word; text-align: left; overflow: hidden"&gt;&lt;xsl:value-of select="ProdName" /&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="back-bold2" style="border-right: 1px solid #004F9E!important;border-left: 1px solid #004F9E!importan; border-bottom: 1px dotted #004F9E!important; border-top: 1px dotted #004F9E!important"&gt;&lt;div style="display: block; word-wrap: break-word; text-align: center"&gt;&lt;xsl:value-of select="ProdUnit" /&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="back-bold" style="border-right: 1px solid #004F9E!important; border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;div style="display: block; word-wrap: break-word; text-align: center; overflow: hidden"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="(ProdQuantity='') or(ProdQuantity=0)"&gt;
+																	 
+																	&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;&lt;!-- fix new--&gt;&lt;xsl:value-of select="translate(translate(translate(format-number(translate(ProdQuantity,',','.'), '###,##0.####'),',','?'),'.',','),'?','.')" /&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="back-bold2" style="border-right: 1px solid #004F9E!important; border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;div style="display: block; word-wrap: break-word; text-align: center; overflow: hidden"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="(ProdPrice='') or(ProdPrice=0)"&gt;
+																	 
+																	&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;&lt;!-- fix new--&gt;&lt;xsl:value-of select="translate(translate(translate(format-number(translate(ProdPrice,',','.'), '###,##0.####'),',','?'),'.',','),'?','.')" /&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="back-bold" style="border-right: 1px solid #004F9E!important;border-left: 1px solid #004F9E!important; border-bottom: 1px dotted #004F9E!important"&gt;&lt;div style="display: block; word-wrap: break-word; text-align: right; overflow: hidden"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="(Amount=0) or(Amount='')"&gt;
+																	 
+																  &lt;/xsl:when&gt;&lt;xsl:otherwise&gt;&lt;!-- fix new--&gt;&lt;xsl:value-of select="translate(translate(translate(format-number(translate(Amount,',','.'), '###,##0.####'),',','?'),'.',','),'?','.')" /&gt;&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;xsl:if test="(position() + $level1Count)= $itemCount"&gt;&lt;xsl:if test="($itemCount mod 12) != 0"&gt;&lt;xsl:call-template name="addLine"&gt;&lt;xsl:with-param name="count" select="12- ($itemCount mod 12)" /&gt;&lt;/xsl:call-template&gt;&lt;/xsl:if&gt;&lt;tr class="noline back" style="border-top: 1px solid #004F9E!important; line-height: 20px"&gt;&lt;td colspan="5" style="font-size:17px; padding-left: 0px; text-align: right; border-bottom: 1px solid #004F9E!important; border-right: 1px solid #004F9E!important; border-left: 1px solid #004F9E!important"&gt;&lt;label style="color: #004F9E"&gt;
+																	Cộng tiền hàng (Total):
+																&lt;/label&gt;&lt;/td&gt;&lt;td colspan="1" style="color:#004F9E; border-bottom: 1px solid #004F9E!important; text-align: right; border-left: 0px solid #fff!important; border-right: 1px solid #004F9E!important"&gt;&lt;label class="fl-l input-name" style="float: right; border-bottom: 0px dotted #fff!important"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="(../../Total!='' and ../../Total!=0)"&gt;&lt;!-- fix new--&gt;
+																		     &lt;xsl:value-of select="translate(translate(translate(format-number(translate(../../Total,',','.'), '###,##0.####'),',','?'),'.',','),'?','.')" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																		   
+																		&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class="noline back" style="border-top: 0px solid #fff!important"&gt;&lt;td class="back-bold" colspan="2" style="color:#004F9E; font-size:17px; padding-left: 0px; text-align: right; border-bottom: 1px solid #004F9E!important; border-right: 0px solid #fff!important; border-left: 1px solid #004F9E!important"&gt;&lt;div class="clearfix"&gt;&lt;label class="fl-l2" style="float:left;margin-left:8px"&gt;
+																		Thuế suất GTGT (VAT rate): 
+																	&lt;/label&gt;&lt;label class="fl-l input-name" style="border-bottom: 0px dotted #fff!important; width:45px"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="../../VAT_Rate!=''"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="../../VAT_Rate!='-1' "&gt;
+																					  &lt;xsl:value-of select="../../VAT_Rate" /&gt; %
+																					&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																					 /
+																					&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																			%
+																			&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="back-bold" colspan="3" style="font-size:17px; border-bottom: 1px solid #004F9E!important; text-align: right; border-left: 0px solid #fff!important; border-right: 1px solid #004F9E!important"&gt;&lt;label style="color: #004F9E"&gt;
+																	Tiền thuế GTGT (VAT amount):
+																&lt;/label&gt;&lt;/td&gt;&lt;td colspan="1" style="color:#004F9E; border-bottom: 1px solid #004F9E!important; text-align: right; border-left: 0px solid #fff!important; border-right: 1px solid #004F9E!important"&gt;&lt;label class="fl-l input-name" style="float: right; border-bottom: 0px dotted #fff!important"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="../../VAT_Amount='0'"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="../../VAT_Rate='-1'"&gt;
+																			   /
+																			&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																			  0
+																			&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/xsl:when&gt;&lt;xsl:when test="../../VAT_Amount!=''"&gt;&lt;!-- fix new--&gt;&lt;xsl:value-of select="translate(translate(translate(format-number(translate(../../VAT_Amount,',','.'), '###,##0.####'),',','?'),'.',','),'?','.')" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																		   
+																		&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style="border-top: 0px solid #fff!important"&gt;&lt;td class="back-bold" colspan="5" style="font-size:17px; border-bottom: 1px solid #004F9E!important; text-align: right; border-left: 1px solid #004F9E!important; border-right: 1px solid #004F9E!important"&gt;&lt;label style="color: #004F9E"&gt;
+																	Tổng cộng tiền thanh toán (Grand total):
+																&lt;/label&gt;&lt;/td&gt;&lt;td colspan="1" style="font-size:17px; color:#004F9E; border-bottom: 1px solid #004F9E!important; text-align: right; border-left: 0px solid #fff!important; border-right: 1px solid #004F9E!important"&gt;&lt;label class="fl-l input-name" style="float: right; width: 100%; text-align: right; border-bottom: 0px dotted #fff!important"&gt;&lt;xsl:choose&gt;&lt;xsl:when test="(../../Amount!='' and ../../Amount!=0)"&gt;&lt;!-- fix new--&gt;&lt;xsl:value-of select="translate(translate(translate(format-number(translate(../../Amount,',','.'), '###,##0.####'),',','?'),'.',','),'?','.')" /&gt;&lt;/xsl:when&gt;&lt;xsl:otherwise&gt;
+																		 
+																		&lt;/xsl:otherwise&gt;&lt;/xsl:choose&gt;&lt;/label&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class="noline back" style="font-size:17px; border-top: 0px solid #fff!important; border-bottom:1px solid #004F9E!important; border-left:1px solid #004F9E!important; border-right: 1px solid #004F9E!important"&gt;&lt;td colspan="6"&gt;&lt;xsl:call-template name="tempAmount_words"&gt;&lt;xsl:with-param name="str" select="../../Amount_words" /&gt;&lt;/xsl:call-template&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr class="noline back" style="border-bottom: 0px solid #fff!important"&gt;&lt;td colspan="6" style="border-bottom: 0px dotted #fff!important; border-left:0px solid #fff!important; border-right:0px solid #fff!important"&gt;&lt;table style="width: 100%"&gt;&lt;tr&gt;&lt;td width="30%" style="font-size:17px; text-align: center; margin-top: 0px; border-bottom: 0px solid #fff!important; border-top: 0px solid #fff!important;"&gt;&lt;b style="margin-right: 0px; color: #004F9E"&gt;Người mua hàng (Buyer)&lt;/b&gt;&lt;/td&gt;&lt;td rowSpan="3" width="40%" style="border-bottom: 0px dotted #fff!important; text-align: center; vertical-align: top; border-right: 0px solid #fff!important; border-left: 0px solid #fff!important"&gt;&lt;xsl:value-of select="../../isReplace" /&gt;&lt;xsl:value-of select="../../isAdjust" /&gt;&lt;xsl:choose&gt;&lt;xsl:when test="/Invoice/convert!=''"&gt;&lt;div style="text-align: center; margin-top: 0px"&gt;&lt;div&gt;&lt;label style="font-size: 14px; color:#004F9E"&gt;&lt;b&gt;
+																									HÓA ĐƠN CHUYỂN ĐỔI TỪ HÓA ĐƠN ĐIỆN TỬ
+																								&lt;/b&gt;&lt;/label&gt;&lt;p style="font-size:17px; margin: 0px; color: #004F9E"&gt;
+																								Ngày  
+																								&lt;b&gt;&lt;xsl:value-of select="substring(/Invoice/ConvertDate,1,2)" /&gt;&lt;/b&gt;
+																								 tháng  
+																								&lt;b&gt;&lt;xsl:value-of select="substring(/Invoice/ConvertDate,4,2)" /&gt;&lt;/b&gt;
+																								 năm 
+																								&lt;b&gt;&lt;xsl:value-of select="concat('20',substring(/Invoice/ConvertDate,9,2))" /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style="font-size:17px; margin:0px; color:#004F9E"&gt;
+																								Người chuyển đổi
+																								&lt;br /&gt;&lt;i style="font-size:17px"&gt;
+																									( Signature of converter )
+																								&lt;/i&gt;&lt;/p&gt;&lt;!--&lt;p style="margin-top:60px"&gt;
+																						  &lt;xsl:value-of select="../../ConvertBy"/&gt;
+																							&lt;/p&gt;--&gt;&lt;!--&lt;p style="font-size:15px; margin:0px"&gt;
+																						  Thủ trưởng đơn vị
+																							&lt;/p&gt;--&gt;&lt;/div&gt;&lt;/div&gt;&lt;/xsl:when&gt;&lt;/xsl:choose&gt;&lt;/td&gt;&lt;td width="30%" style="font-size:17px; text-align: center; margin-top: 0px; border: 0px solid #fff!important"&gt;&lt;b style="margin-left: 0px; color: #004F9E"&gt;Người bán hàng (Seller)&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td width="30%" style="text-align: center; border: 0px solid #fff!important"&gt;&lt;label style="font-size:17px"&gt;Ký, ghi rõ họ, tên&lt;/label&gt;&lt;br /&gt;&lt;label style="font-size:16px"&gt;(Signature &amp;amp; full name)&lt;/label&gt;&lt;/td&gt;&lt;td width="30%" style="text-align: center; border: 0px solid #fff!important"&gt;&lt;label style="font-size:17px"&gt;Ký, đóng dấu, ghi rõ họ, tên&lt;/label&gt;&lt;br /&gt;&lt;label style="font-size:16px"&gt;(Signature, stamp &amp;amp; full name)&lt;/label&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td width="30%" style=" border: 0px solid #fff!important"&gt;&lt;div class="payment fl-l" style="width: 100%; float:left"&gt;
+																			 
+																			&lt;/div&gt;&lt;/td&gt;&lt;td width="30%" style="padding-top:0px; border: 0px solid #fff!important"&gt;&lt;div class="payment fl-l" style="width: 100%; float: right; margin-top:20px; margin-bottom:20px; margin-right: 7px;"&gt;&lt;p style="font-size:15px; margin: 0px; color: #FE8103" class="ComNameSignDate"&gt;&lt;xsl:variable name="serial"&gt;&lt;xsl:value-of select="../../SerialNo" /&gt;&lt;/xsl:variable&gt;&lt;xsl:variable name="pattern"&gt;&lt;xsl:value-of select="../../InvoicePattern" /&gt;&lt;/xsl:variable&gt;&lt;xsl:variable name="invno"&gt;&lt;xsl:value-of select="../../InvoiceNo" /&gt;&lt;/xsl:variable&gt;&lt;xsl:choose&gt;&lt;xsl:when test="/Invoice/image != '' "&gt;&lt;div class="bgimg" style="padding: 5px; display: block; margin: 0 auto; width:280px; background:url(data:image/png;base64,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) no-repeat center center" onclick="showDialog('dialogServer','{$serial}','{$pattern}','{$invno}',0,'messSer','is')"&gt;&lt;p style="color: red"&gt;&lt;xsl:value-of select="/Invoice/image" /&gt;&lt;/p&gt;&lt;p style="color: red; font-size:17px"&gt;
+																									Ký bởi: &lt;xsl:value-of select="../../ComName" /&gt;&lt;br /&gt;
+																									Ký ngày: &lt;xsl:value-of select="/Invoice//Content/SignDate" /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/xsl:when&gt;&lt;/xsl:choose&gt;&lt;/p&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="6" style="text-align: center; border: 0px solid #fff!important"&gt;&lt;br /&gt;&lt;i style="color: #004F9E; font-size: 16px"&gt;
+																				(Cần kiểm tra, đối chiếu khi lập, giao nhận hóa đơn)
+																			&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/xsl:if&gt;&lt;/xsl:for-each&gt;&lt;!-- &lt;/xsl:for-each&gt; --&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;div class="nenhd_bg"&gt;   &lt;/div&gt;&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;&lt;!--panel footer--&gt;&lt;div style="font-style: italic; font-size: 11px; width: 890px; text-align: center; color: #004F9E; margin-top: 0px; padding-top:0px; line-height:14px;"&gt;&lt;i&gt;Đơn vị cung cấp giải pháp hóa đơn điện tử: Trung tâm Kinh doanh VNPT TP. Hồ Chí Minh - Chi nhánh Tổng Công ty Dịch vụ Viễn thông, MST: 0106869738 - 005, Điện thoại: 18001260&lt;/i&gt;&lt;br /&gt;Tra cứu tại website (search) : &lt;b&gt;https://portaltool-miennam.vnpt-invoice.com.vn&lt;/b&gt; - Mã nhận hóa đơn (ID invoice) : &lt;b&gt;&lt;xsl:value-of select="/Invoice/Fkey" /&gt;&lt;/b&gt;&lt;/div&gt;&lt;!-- &lt;/div&gt; --&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/xsl:for-each&gt;&lt;/div&gt;&lt;div class="clearfix" id="bt"&gt;   &lt;/div&gt;&lt;/center&gt;&lt;/body&gt;&lt;script&gt;
+        ShowCurrentPage();
+    &lt;/script&gt;&lt;/html&gt;&lt;/xsl:template&gt;&lt;/xsl:stylesheet&gt;</XsltFile><RegisTemp>DICHVUPHUCHUY002_01</RegisTemp></Invoice>

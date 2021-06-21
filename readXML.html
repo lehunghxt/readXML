@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hóa đơn đầu vào</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script type='text/javascript' src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+    <script type='text/javascript' src="readXML.js"></script>
+    <script type='text/javascript' src="index.js"></script>
+    <script type='text/javascript' src="InvoiceModel.js"></script>
+</head>
+
+<body>
+    <main class="main">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="card-title">Quản lý hóa đơn đầu vào</h3>
+            </div>
+            <div class="card-body">
+                <div id="File-Input">
+                    <div class="input-group mb-3">
+                        <div class="custom-file">
+                            <input type='file' id="xml-file" onchange='openFile(event)'>
+                            <label class="custom-file-label" for="xml-file" aria-describedby="xml-file">File XML</label>
+                        </div>
+                        <div class="input-group-append">
+                            <span class="input-group-text" id="xml-file-addon">Tải lên</span>
+                        </div>
+                    </div>
+                </div>
+                <div id="ViewInvoice">
+                    <table class="table invoice-header">
+                        <tbody>
+                            <tr>
+                                <td class="center"><b id="InvoiceType"></b></td>
+                                <td><strong>Mẫu số:</strong></td>
+                                <td id="TemptCode"></td>
+                            </tr>
+                            <tr>
+                                <td class="center"><em id="DateofInvoice"></em></td>
+                                <td><strong>Ký hiệu:</strong></td>
+                                <td id="Symbol"></td>
+                            </tr>
+                            <tr>
+                                <td class="center"></td>
+                                <td><strong>Số:</strong></td>
+                                <td id="InvoiceNumber"><b></b></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="table">
+                        <tbody class="seller-info">
+                            <tr>
+                                <td><b>Đơn vị bán</b></td>
+                                <td colspan="2" class="bold" id="SellerName"></td>
+                            </tr>
+                            <tr>
+                                <td><b>Địa chỉ</b></td>
+                                <td colspan="2" id="SellerAddress"></td>
+                            </tr>
+                            <tr>
+                                <td><b>MST</b></td>
+                                <td colspan="2" id="SellerTaxCode"></td>
+                            </tr>
+                        </tbody>
+                        <tbody class="buyer-info">
+                            <tr>
+                                <td><b>Đơn vị mua</b></td>
+                                <td colspan="2" class="bold" id="BuyerName"></td>
+                            </tr>
+                            <tr>
+                                <td><b>Địa chỉ</b></td>
+                                <td colspan="2" id="BuyerAddress"></td>
+                            </tr>
+                            <tr>
+                                <td><b>MST</b></td>
+                                <td colspan="2" id="BuyerTaxCode"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="table invoice-general-info">
+                        <tbody>
+                            <tr>
+                                <td><b>Loại tiền</b></td>
+                                <td id="MoneyCode"></td>
+                                <td><b>Tỉ giá</b></td>
+                                <td id="ExchangeRate"></td>
+                                <td><b>Hình thức thanh toán</b></td>
+                                <td id="PaymentTerm"></td>
+                            </tr>
+                            <tr>
+                            <tr>
+                                <td><b>Nhà cung cấp:</b></td>
+                                <td></td>
+                                <td><b>Mã tra cứu:</b></td>
+                                <td><b id="IvoiceCode"></b></td>
+                                <!-- <td>Đường dẫn:</td>
+                                <td>
+                                    <a target="_blank" href="">
+                                    </a>
+                                </td> -->
+                            </tr>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="table table-bordered invoice-body">
+                        <thead>
+                            <tr>
+                                <th>STT<br /><em>(No.)</em></th>
+                                <th>Tên HH/DV<br /><em>(Name)</em></th>
+                                <th>Đơn vị<br /><em>(Unit)</em></th>
+                                <th>Số lượng<br /><em>(Quantity)</em></th>
+                                <th>Đơn giá<br /><em>(Price)</em></th>
+                                <th>Thuế<br /><em>(VAT)</em></th>
+                                <th>Thành tiền<br /><em>(Amount)</em></th>
+                                <th>Thành tiền sau thuế<br /><em>(Total)</em></th>
+                            </tr>
+                        </thead>
+                        <tbody id="invoice-details">
+                        </tbody>
+                    </table>
+                    <div class="invoice-footer">
+                        <div></div>
+                        <div>Tổng tiền trước thuế <i>(Subtotal)</i></div>
+                        <div class="bold" id="TotalMoneyNoTax"></div>
+                        <div></div>
+                        <div>Tổng tiền thuế <i>(VAT)</i></div>
+                        <div class="bold" id="MoneyTax"></div>
+                        <div></div>
+                        <div>Tổng tiền sau thuế <i>(Total)</i></div>
+                        <div class="bold" id="TotalMoney"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer"></div>
+        </div>
+    </main>
+</body>
+
+</html>

@@ -1,0 +1,116 @@
+{
+    "DateofInvoice": {
+        "key": "HDon.DLHDon.TTChung.NLap",
+        "type": "Date"
+    },
+    "InvoiceNumber": {
+        "key": "HDon.DLHDon.TTChung.SHDon",
+        "type": "Number"
+    },
+    "Symbol": {
+        "key": "HDon.DLHDon.TTChung.KHHDon",
+        "type": "String"
+    },
+    "TemptCode": {
+        "key": "HDon.DLHDon.TTChung.KHMSHDon",
+        "type": "String"
+    },
+    "ExchangeRate": {
+        "key": "HDon.DLHDon.TTChung.TGia",
+        "type": "Number"
+    },
+    "MoneyCode": {
+        "key": "HDon.DLHDon.TTChung.DVTTe",
+        "type": "String"
+    },
+    "IvoiceCode": {
+        "key": "HDon.DLHDon.TTChung.MTCuu",
+        "type": "String"
+    },
+    "SellerTaxCode": {
+        "key": "HDon.DLHDon.NDHDon.NBan.MST",
+        "type": "String"
+    },
+    "SellerName": {
+        "key": "HDon.DLHDon.NDHDon.NBan.Ten",
+        "type": "String"
+    },
+    "SellerCompanyAddress": {
+        "key": "HDon.DLHDon.NDHDon.NBan.DChi",
+        "type": "String"
+    },
+    "CompanyName": {
+        "key": "HDon.DLHDon.NDHDon.NMua.Ten",
+        "type": "String"
+    },
+    "CompanyTaxcode": {
+        "key": "HDon.DLHDon.NDHDon.NMua.MST",
+        "type": "String"
+    },
+    "CompanyAdd": {
+        "key": "HDon.DLHDon.NDHDon.NMua.DChi",
+        "type": "String"
+    },
+    "TotalMoneyNoTax": {
+        "key": "HDon.DLHDon.NDHDon.TToan.TgTCThue",
+        "type": "Number"
+    },
+    "MoneyTax": {
+        "key": "HDon.DLHDon.NDHDon.TToan.TgTCThue",
+        "type": "Number"
+    },
+    "TotalMoney": {
+        "key": "HDon.DLHDon.NDHDon.TToan.TgTTTBSo",
+        "type": "Number"
+    },
+    "Details": {
+        "key": {
+            "ProductName": {
+                "key": "THHDVu",
+                "type": "String",
+                "required": true
+            },
+            "Unit": {
+                "key": "DVTinh",
+                "type": "String",
+                "default": ""
+            },
+            "Number": {
+                "key": "SLuong",
+                "type": "Number",
+                "default": 0
+            },
+            "Price": {
+                "key": "DGia",
+                "type": "Number",
+                "default": 0
+            },
+            "TotalMoney": {
+                "key": "ThTien",
+                "type": "Number",
+                "default": 0
+            },
+            "Discount": {
+                "key": "Discount",
+                "type": "Boolean",
+                "default": false
+            },
+            "Status": {
+                "key": "Status",
+                "type": "Number",
+                "default": 1
+            },
+            "Tax": {
+                "key": "TSuat",
+                "type": "Number",
+                "default": 0
+            },
+            "Type": {
+                "key": "TChat",
+                "type": "Number",
+                "default": 0
+            }
+        },
+        "path_to": "HDon.DLHDon.NDHDon.DSHHDVu.HHDVu"
+    }
+}

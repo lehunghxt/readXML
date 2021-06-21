@@ -1,0 +1,55 @@
+.main{
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+.table:not(.table-bordered),
+.table:not(.table-bordered) th,
+.table:not(.table-bordered) tr,
+.table:not(.table-bordered) td{
+    padding: .25rem;
+    border: none;
+}
+.invoice-header thead td:nth-child(2),
+.invoice-header thead td:nth-child(3){
+    text-align: left;
+    width: 10em;
+}
+.invoice-header thead td:nth-child(1){
+    text-align: center;
+}
+.invoice-body thead th{
+    text-align: center;
+    border-bottom: none;
+}
+.invoice-body thead th em{
+    font-size: 0.75em;
+    font-style: italic;
+}
+.invoice-body th:nth-child(1),
+.invoice-body td:nth-child(1)
+.invoice-body th:nth-child(6),
+.invoice-body td:nth-child(6){
+    width: 3em;
+}
+.invoice-body td{
+    text-align: right;
+}
+.invoice-body td:nth-child(2),
+.invoice-body td:nth-child(3){
+    text-align: left;
+}
+
+.invoice-general-info{
+    text-align: left;
+}
+.invoice-footer{
+    display: grid;
+    grid-template-columns: 50% 20% 30%;
+    text-align: right;
+}
+.center{
+    text-align: center !important;
+}
+.bold{
+    font-weight: bold;
+}
